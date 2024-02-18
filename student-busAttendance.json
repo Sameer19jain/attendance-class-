@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "student-bus-boarding",
+  "private_key_id": "ba26132e1c88b0582a137bc7017ab62cb0706198",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCfKWewxH6QDNVW\nsJegvLbmFRZ1VV/rfgEMiFDmbQ6QMoL1u2jKFUp1jh2eRFCHYnZy5+YwjqsPQFEi\n2sGmIzW0aPqdH2fAR5rms8Q5zZRcusCfHxtp7XMLSBi0S/yi+eqqhkFTau1Ji0wx\nyN2ELACxmsWbe/D4kzKBAFzRMcXU9ACqtpD2WbAwZhOnkUNRfkNvJsWhXTR2tM63\n1ROCxh8FTw/B5ksHlai3cqnYOe96t/2PC5nRC7in+Le7tvhyi8WMBZQKz1mJoODl\nufqvgTFgvOkepGhJZrRW78o/ncs1Ww7UnA0Dw29c4P2CnrJUNzhXs6/U/3Tsvq8m\noiTV1c3ZAgMBAAECggEAAUyMi+F1yaXb1Tn227zD5dRk5d0mEwuFVx2DCb5qkK3V\nTgSTHNFYHK0Qe+5sI5z1ATKi4+E7i7yK3sMQ+f18d2RDEEMCBf4sEF5pdZWJguWS\naqvUxMfkA9Ec0oE5mKLtirgWPUtjOxHEM+EmswU9XRlH1raWQDvKbtf+ItRKRw/E\nVqNTmb+10KU04v2nCwxOMkQflzoQEipYiNBy6NqvLz/AmhBd4pt0mQgQbMsTW1TQ\nelXMbs5z/X//4Ue5jku1FcLv5hoX3tqKs2KI/VKFGRF/+NdI1QvnISE4oSwIHt+k\nlNExA06MGfSMGhiapdyMkd6dBUKwvuoopU5DgdN+YQKBgQDeRPU6RYAwmEvGXS4Z\nD3xBoWoKryJ7c+UhGNheCAa/snNxD/VA2ssyfCD5+A1HLqQwfW7LbGuYWZtNSA1+\neLh1IcoKQsULcFm7mJ3qGER7ZKNNbfg0VzKGW9Zge654nHlp7hMKFSF2n5ovTAHb\nNzNvGzcQjpsnw0ehIUXtInSNvQKBgQC3UMApL/TT+jTLwqGUfeEUP7RliK1JHwJJ\nupg6VUquRaWOTDoGTi7setDvz5vw2amJMes/sTQctmLsjSn6+fciMQCRDFMsJKxl\nyc5aC4G/b1Eo+yiwpnH+sJaagEtyY9D+jTK7ON4G9pyAXx2Z14XdxoDE/EsXiNv8\nFxynHoicTQKBgQCmtawE58oNKL1068C+lSnKhAnoN5GybKvH1j260WRWdb82ZxS5\nbyGHHSkSs+UppacKo5ntQ8WzwEnGfit414zqdcx3Q7tNKBh1pzOSOF9s+X+ufLP0\ndg50Tf+N4FZtKle6hxGKt2yg73aS0Px3coDGbfAwH/XprgNUrIMpKHWpNQKBgQCC\nmRLtxO6lfmHSsIyw36VU6bW5iE/8Ag19PWRqWo1j7tZttDy6dUTU0QK9dqjgRBGW\nXmv86l/3/LApWsCHv0GjqEmBDMjMcCwqMEXEvOHo4oNtsNFiWJJqIqCI3dHiYt5o\nG2wDGhaD23nPsvPBwFvsjhj7Pcq5r5UZ2dVd8lDdGQKBgQCSTHxT+jVMy3H7dKsA\nNJckyrocEJLmbea+CfVft4Iz/n/eMizkgSJAWgxTWYH/SlAKgU6tX4daUARN40zm\njiq8Mren7URmZz8v9lq7YDXUDl1F8jmjMd5janMR4+wCjCUg25RPAuxrECuXT/mZ\nR2J9A3XYJLZ1KxPGoAI668J+Cg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rz9o7@student-bus-boarding.iam.gserviceaccount.com",
+  "client_id": "116937182475180263557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rz9o7%40student-bus-boarding.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
